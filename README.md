@@ -7,7 +7,7 @@ This repository contains the full analysis pipeline and results for **H1.5**, a 
 
 ## Scope
 H1.5 is a **diagnostic-only study**.  
-No model parameters are modified, optimized, or re-fitted.
+No model parameters are modified, optimised, or re-fitted.
 
 ## Relation to H1
 - H1 is treated as a **frozen input**
@@ -28,3 +28,5 @@ No random seeds or per-galaxy tuning are employed.
 
 ## License
 MIT
+The full analysis pipeline, derived diagnostic tables, and figure-generation scripts for H1.5 are archived on Zenodo at \url{https://doi.org/10.5281/zenodo.18321595}.
+
