@@ -30,10 +30,15 @@ No random seeds or per-galaxy tuning are employed.
 
 ## License
 MIT
+### Related Releases
+
+**H1 (Frozen Model):** https://doi.org/10.5281/zenodo.18065273  
+**H1.5 (Diagnostic Tests):** https://doi.org/10.5281/zenodo.18321595
+
 ## Citation
 
 If you use this work, please cite:
 
 **H1.5 — Diagnostic Tests of a Frozen Nonlocal Baryonic Model Against the BTFR and RAR**  
 Zenodo (2025).  
-DOI: https://doi.org/10.5281/zenodo.18321595
+
