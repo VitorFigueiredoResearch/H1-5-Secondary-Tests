@@ -1,0 +1,12 @@
+--------------------------------------------------
+RAR Scatter Diagnostic (H1.5)
+--------------------------------------------------
+Total points analysed : 5250
+RMS scatter (dex)      : 0.539
+Median |Δ| (dex)       : 0.309
+--------------------------------------------------
+
+------------------------------------------------------------
+RAR assembly complete
+Output file: C:\Users\Vitor\Documents\GitHub\H1-5-Secondary-Tests\data\h1_frozen_results\rar_points.csv
+Total points: 5250

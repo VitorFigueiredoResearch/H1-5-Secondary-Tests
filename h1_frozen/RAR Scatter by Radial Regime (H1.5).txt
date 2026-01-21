@@ -1,0 +1,8 @@
+------------------------------------------------------------
+RAR Scatter by Radial Regime (H1.5)
+------------------------------------------------------------
+Inner (r < 0.3)    | N = 1575 | RMS = 0.764 dex | Median = 0.639 dex
+Mid (0.3–0.7)      | N = 2100 | RMS = 0.435 dex | Median = 0.306 dex
+Outer (r ≥ 0.7)    | N = 1575 | RMS = 0.364 dex | Median = 0.181 dex
+------------------------------------------------------------
+H1 fails where baryonic complexity dominates and succeeds where extended dynamical response matters most.
