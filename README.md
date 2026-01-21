@@ -41,4 +41,5 @@ If you use this work, please cite:
 
 **H1.5 — Diagnostic Tests of a Frozen Nonlocal Baryonic Model Against the BTFR and RAR**  
 Zenodo (2025).  
-"Submitted for peer review at Monthly Notices of the Royal Astronomical Society (MN-26-0172-P)." This is the "Passport" that proves you are a professional.
+
+Submitted for peer review at Monthly Notices of the Royal Astronomical Society (MN-26-0172-P).
