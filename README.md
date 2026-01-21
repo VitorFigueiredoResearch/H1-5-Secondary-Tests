@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18321595.svg)](https://doi.org/10.5281/zenodo.18321595)
+
 # H1.5 — Secondary Diagnostic Tests
 
 This repository contains the full analysis pipeline and results for **H1.5**, a diagnostic study evaluating the frozen H1 baryon-convolved potential model against two empirical scaling relations:
