@@ -30,5 +30,10 @@ No random seeds or per-galaxy tuning are employed.
 
 ## License
 MIT
-The full analysis pipeline, derived diagnostic tables, and figure-generation scripts for H1.5 are archived on Zenodo at \url{https://doi.org/10.5281/zenodo.18321595}.
+## Citation
 
+If you use this work, please cite:
+
+**H1.5 — Diagnostic Tests of a Frozen Nonlocal Baryonic Model Against the BTFR and RAR**  
+Zenodo (2025).  
+DOI: https://doi.org/10.5281/zenodo.18321595
