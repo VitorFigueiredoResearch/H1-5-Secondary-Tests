@@ -1,0 +1,9 @@
+@software{FigueiredoH15,
+  author       = {Figueiredo, V\'{i}tor M. F.},
+  title        = {{H1.5}: Diagnostic Tests of a Frozen Nonlocal Baryonic Model Against the BTFR and RAR},
+  year         = {2025},
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.18321595},
+  url          = {https://doi.org/10.5281/zenodo.18321595},
+  note         = {Zenodo archive}
+}
