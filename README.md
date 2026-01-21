@@ -1,10 +1,30 @@
-# H1.5 — Secondary Tests of the H1 Kernel
+# H1.5 — Secondary Diagnostic Tests
 
-This repository contains secondary analyses of the frozen H1 phenomenological
-model, testing its behavior against independent observables such as:
+This repository contains the full analysis pipeline and results for **H1.5**, a diagnostic study evaluating the frozen H1 baryon-convolved potential model against two empirical scaling relations:
 
-- Baryonic Tully–Fisher Relation (BTFR)
-- (Planned) weak lensing consistency checks
+- The Baryonic Tully–Fisher Relation (BTFR)
+- The Radial Acceleration Relation (RAR)
 
-No re-fitting or modification of the H1 kernel is performed.
-All analyses operate strictly on published H1 outputs.
+## Scope
+H1.5 is a **diagnostic-only study**.  
+No model parameters are modified, optimized, or re-fitted.
+
+## Relation to H1
+- H1 is treated as a **frozen input**
+- All rotation curve outputs are precomputed
+- This repository performs *secondary analysis only*
+
+H1 (frozen model): DOI: 10.5281/zenodo.18065273
+
+## Contents
+- `scripts/` — analysis and plotting scripts
+- `data/` — derived diagnostic tables
+- `figures/` — figures used in the manuscript
+- `paper/` — LaTeX source for the H1.5 manuscript
+
+## Reproducibility
+All results can be reproduced using the scripts provided.  
+No random seeds or per-galaxy tuning are employed.
+
+## License
+MIT
