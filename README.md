@@ -18,6 +18,9 @@ No model parameters are modified, optimised, or re-fitted.
 
 H1 (frozen model): DOI: 10.5281/zenodo.18065273
 
+To reproduce results, create the environment with:
+conda env create -f environment.yml
+
 ## Contents
 - `scripts/` — analysis and plotting scripts
 - `data/` — derived diagnostic tables
