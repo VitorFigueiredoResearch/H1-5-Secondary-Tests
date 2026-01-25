@@ -1,1 +1,17 @@
+name: h1_5_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - astropy
+  - h5py
+  - numba
+  - scikit-learn
+  - pip
+  - pip:
+      - tqdm
 
