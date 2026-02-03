@@ -45,4 +45,7 @@ If you use this work, please cite:
 **H1.5 — Diagnostic Tests of a Frozen Nonlocal Baryonic Model Against the BTFR and RAR**  
 Zenodo (2025).  
 
-Submitted for peer review at Monthly Notices of the Royal Astronomical Society (MN-26-0172-P).
+H1.5 is a diagnostic analysis of the frozen H1 model.
+The manuscript was submitted to MNRAS and received a desk rejection.
+The present version reflects post-submission clarification and correction only.
+No numerical results have been altered.
